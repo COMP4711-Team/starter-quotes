@@ -2,6 +2,7 @@ Newest at the top
 
 Jan 28, 2016, 15:48 Setup
 
+Jan 30, 2016, 12:24 Completed the "Last" feature (forgot to add to log)
 Jan 30, 2016, 11:52 Completed the "Wise" feature
 Jan 30, 2016, 11:30 Completed the "Dunno" feature
 Jan 30, 2016, 11:27 Completed the "Lockemup" feature

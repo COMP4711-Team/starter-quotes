@@ -1,3 +1,10 @@
 Newest at the top
 
 Jan 28, 2016, 15:48 Setup
+
+Jan 30, 2016, 11:52 Completed the "Wise" feature
+Jan 30, 2016, 11:30 Completed the "Dunno" feature
+Jan 30, 2016, 11:27 Completed the "Lockemup" feature
+Jan 30, 2016, 01:18 Completed the "Bingo" feature
+Jan 30, 2016, 00:51 Completed the "Sleep" and "Show" feature
+Jan 29, 2016, 14:15 Completed the "First feature" 

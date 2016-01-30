@@ -3,8 +3,8 @@ Starter Webapp - Quotes
 #######################
 
 Team members:
-Matthew Wong
-Luda Shu
+Matthew Wong - Acknowledged
+Luda Shu - Acknowledged
 
 Convention:
 Use Allman style notation 

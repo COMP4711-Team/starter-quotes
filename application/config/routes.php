@@ -40,7 +40,20 @@
 
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
-
+$route['lock/:any/:any'] = "welcome/shucks";
+$route['last'] = 'last/Welcome';
+$route['dunno'] = function(){
+    $source='./data/password.jpg';
+    header('Content-type: image/jpeg');
+    header('Content-Disposition: inline');
+    readfile($source);
+    die();
+};
+$route['first'] = 'first';
+$route['(:any)'] = 'First/zzz';
+$route['show/(:num)'] = 'First/gimmie/3'; 
+$route['([a-zA-Z]{4})/bingo'] = "bingo/index";
+$route['comp(\d+)/.*'] = "wise/bingo";
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
